@@ -10,15 +10,22 @@
       "name": "Lootstash",
       "bundleIdentifier": "com.mdbogush.Lootstash",
       "developerName": "Iurii Mishev",
-      "version": "1.0.670",
-      "versionDate": "2026-05-18T13:31:33Z",
-      "size": 60566,
-      "downloadURL": "https://github.com/md-bogush/lootstash-ios-release/releases/download/dev-latest/Lootstash.ipa",
       "localizedDescription": "Personal family finance tracker. iOS rewrite of the original PWA.",
       "iconURL": "https://raw.githubusercontent.com/md-bogush/lootstash-ios-release/main/icon.png",
       "screenshotURLs": [],
-      "minOSVersion": "26.5",
-      "permissions": []
+      "versions": [
+        {
+          "version": "1.0.671",
+          "date": "2026-05-18T14:34:57Z",
+          "size": 60570,
+          "downloadURL": "https://github.com/md-bogush/lootstash-ios-release/releases/download/dev-latest/Lootstash.ipa",
+          "localizedDescription": "Auto-built from master."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ]
 }
