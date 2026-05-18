@@ -1,0 +1,24 @@
+{
+  "name": "Lootstash (dev)",
+  "subtitle": "Personal builds — Iurii Mishev",
+  "description": "Internal builds of Lootstash for family use. Not affiliated with any App Store offering.",
+  "iconURL": "https://raw.githubusercontent.com/md-bogush/lootstash-ios-release/main/icon.png",
+  "website": "https://github.com/md-bogush/lootstash-ios-release",
+  "tintColor": "8B5E34",
+  "apps": [
+    {
+      "name": "Lootstash",
+      "bundleIdentifier": "com.mdbogush.Lootstash",
+      "developerName": "Iurii Mishev",
+      "version": "0.0.0",
+      "versionDate": "2026-05-18T00:00:00Z",
+      "size": 0,
+      "downloadURL": "https://github.com/md-bogush/lootstash-ios-release/releases/download/dev-latest/Lootstash.ipa",
+      "localizedDescription": "Personal family finance tracker. iOS rewrite of the original PWA.",
+      "iconURL": "https://raw.githubusercontent.com/md-bogush/lootstash-ios-release/main/icon.png",
+      "screenshotURLs": [],
+      "minOSVersion": "26.5",
+      "permissions": []
+    }
+  ]
+}
