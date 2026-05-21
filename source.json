@@ -16,9 +16,9 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "995",
-          "date": "2026-05-21T07:38:33Z",
-          "size": 1741062,
+          "buildVersion": "996",
+          "date": "2026-05-21T07:53:19Z",
+          "size": 1741679,
           "downloadURL": "https://github.com/md-bogush/lootstash-ios-release/releases/download/dev-latest/Lootstash.ipa",
           "localizedDescription": "Auto-built from master."
         }
